@@ -28,7 +28,7 @@ function TodoForm({ addTasks }) {
         className="bg-slate-400 px-4 py-2 rounded-lg ml-24 text-white"
         onClick={handleSubmit}
       >
-        Add task
+        Add task!
       </button>
     </form>
   );
